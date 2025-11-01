@@ -251,7 +251,7 @@ p.note { display: none; }
 <a href="20251101_043.JPG" target="_blank"><img src="20251101_043.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251101_044.JPG" target="_blank"><img src="20251101_044.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">蔵さんのお着物に目が留まります</span></h2>
+<h2><span class="yellow">象さんの置き物に目が留まります</span></h2>
 <a href="20251101_045.JPG" target="_blank"><img src="20251101_045.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">ペットのイベントが開催中</span></h2>
