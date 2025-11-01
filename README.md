@@ -232,7 +232,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ir2j78yfeps?si=rLafQbwnuO4vTd1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-<h2><span class="yellow">ロビーいただいたお菓子</span></h2>
+<h2><span class="yellow">ロビーでいただいたお菓子</span></h2>
 <a href="20251101_038.JPG" target="_blank"><img src="20251101_038.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">給茶機</span></h2>
@@ -261,7 +261,7 @@ p.note { display: none; }
 <h2><span class="yellow">すぐ横では寄付を募るビラ</span></h2>
 <a href="20251101_048.JPG" target="_blank"><img src="20251101_048.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">小山羊がこちらを見つめます</span></h2>
+<h2><span class="yellow">子山羊がこちらを見つめます</span></h2>
 <a href="20251101_049.JPG" target="_blank"><img src="20251101_049.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">うさぎは疲れて丸くなりました</span></h2>
