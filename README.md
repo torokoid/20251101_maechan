@@ -446,9 +446,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <br><br><br><br><br><br><br><br><br>
 
 <br><br>
-<h2><span class="yellow">今日のBGMは Elton John, Lionel Richie, Phil Collins, Bee Gees, Lobo, Rod Stewart 📀 Soft Rock Ballads 70s 80s 90s</span></h2>
+<h2><span class="yellow">今日のBGMは Soothing Piano & Gentle Birdsong | Relax, De-Stress & Find Inner Calm</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8FIs1PadLyQ?si=Zeizsu8NP5iQlgBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUP4w_rxJTw?si=QXIZDdKrtXBLjPwL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
     
