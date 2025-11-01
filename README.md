@@ -190,7 +190,7 @@ p.note { display: none; }
 <a href="20251101_017.JPG" target="_blank"><img src="20251101_017.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251101_018.JPG" target="_blank"><img src="20251101_018.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">お花屋さんの裏の田んぼ、真っ赤な衣装のてるてる坊主が目立ってました</span></h2>
+<h2><span class="yellow">お花屋さんの裏の田んぼ、真っ赤な衣装のカカシが目立ってました</span></h2>
 <a href="20251101_019.JPG" target="_blank"><img src="20251101_019.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">田んぼのお空に、お月様が浮かびました</span></h2>
