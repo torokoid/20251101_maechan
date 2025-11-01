@@ -361,6 +361,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">天ぷらはカラッと上がってましたが、お蕎麦はしっとり〜</span></h2>
 <a href="20251101_099.JPG" target="_blank"><img src="20251101_099.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">お箸は2本の色を違えるのが標準です</span></h2>
 <a href="20251101_100.JPG" target="_blank"><img src="20251101_100.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">デザートがついてました</span></h2>
