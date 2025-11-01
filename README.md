@@ -1,1 +1,512 @@
 # 20251101_maechan
+
+<html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
+<head>
+
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--ここから上はお決まりの定型文です-->
+
+
+<!--ここからが表現の書式などを決めるcssという部分-->
+
+<style type="text/css">
+p {
+color: #fffafa;
+font-size: 1.5em;
+}
+
+
+.red {color:#ff0000;}
+.grey {color:#ffffff; background:#999999;}
+.snow {color:#fffafa;}
+.yellow {color:#ff0000; background:#ffff00;}
+.blue {color:#0000ff;}
+.white {color:#ffffff;}
+.waku {border:2px dotted #99cc66;
+line-height: 200%;
+padding: 10px;}
+
+
+main {
+background-color: rgba(255, 255, 255, 0.5);
+}
+
+section {
+background-color: rgba(0, 225, 0, 0.3);
+}
+
+
+/* 点滅 */
+.blinking{
+-webkit-animation:blink 1.5s ease-in-out infinite alternate;
+-moz-animation:blink 1.5s ease-in-out infinite alternate;
+animation:blink 1.5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+0% {opacity:0;}
+100% {opacity:1;}
+}
+@-moz-keyframes blink{
+0% {opacity:0;}
+100% {opacity:1;}
+}
+@keyframes blink{
+0% {opacity:0;}
+100% {opacity:1;}
+}
+
+#wrap {background:none} /*PC用の背景はオフ*/
+
+/*背景を表示させる部分*/
+body::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background:url(https://torokoid.github.io/20251101_maechan/20251101_056.JPG) center/cover no-repeat;
+-webkit-background-size:cover;/*Android4*/
+}
+
+a.p:hover {
+position: relative;
+text-decoration: none;
+}
+a.p span {
+display: none;
+position: relative;
+top: -0.5em;
+left: 2em;
+}
+a.p:hover span {
+border: none;
+display: block;
+width: 800px;
+}
+
+
+@media screen and (min-width: 540px),
+screen and (orientation: landscape) {
+p.note { display: none; }
+}
+
+
+    
+.media-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.responsive-media {
+  width: 100%;
+  display: block;
+}
+
+.youtube-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9比率 */
+  height: 0;
+}
+
+.youtube-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+    
+    
+</style>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+
+</head>
+
+<body>
+    
+<!--
+    <p><a href="https://torokoid.github.io/20250927_maechan/">Happy Birthday</a>><a href="https://torokoid.github.io/20250927__maechan/">Polis's Home></a>Polis's Home_2</p>
+-->
+
+
+<p class="note">
+モバイル端末をお使いの場合は、画面を横向きにすると
+背景画像の横方向がご覧頂けます。
+</p>
+
+
+<!--ここ上は、ほぼそのまま使います！-->
+
+
+<!--QRコードの挿入例-->
+<p align="left"> <img src="QR_2025Nov01.png" alt="アクセス用QRコード" width="100">QR for Access</p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~Hada</marquee></p>
+
+<!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/10/30-31 、電波を出さないアマチュア無線から、メーチャンの金曜市場まで !!!</marquee></span></h1>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!--ここから下が、本体部分-->
+    
+
+<div class="media-container">
+
+<h2><span class="yellow">30,Oct,2025 日本から持ち込んだアマチュア無線機<br>日本のコールサインでは電波は出せないので、PCに繋いでNetで交信、PDNと言う通信方法です</span></h2>
+<a href="20251101_001.JPG" target="_blank"><img src="20251101_001.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">庭のお花は陽射しを浴びて満開</span></h2>
+<a href="20251101_002.JPG" target="_blank"><img src="20251101_002.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_003.JPG" target="_blank"><img src="20251101_003.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">ここからは先日のお花屋さんのお花たち</span></h2>
+<a href="20251101_004.JPG" target="_blank"><img src="20251101_004.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_005.JPG" target="_blank"><img src="20251101_005.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_006.JPG" target="_blank"><img src="20251101_006.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_007.JPG" target="_blank"><img src="20251101_007.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_008.JPG" target="_blank"><img src="20251101_008.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_009.JPG" target="_blank"><img src="20251101_009.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_010.JPG" target="_blank"><img src="20251101_010.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_011.JPG" target="_blank"><img src="20251101_011.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_012.JPG" target="_blank"><img src="20251101_012.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_013.JPG" target="_blank"><img src="20251101_013.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_014.JPG" target="_blank"><img src="20251101_014.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_015.JPG" target="_blank"><img src="20251101_015.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_016.JPG" target="_blank"><img src="20251101_016.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_017.JPG" target="_blank"><img src="20251101_017.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_018.JPG" target="_blank"><img src="20251101_018.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">お花屋さんの裏の田んぼ、真っ赤な衣装のてるてる坊主が目立ってました</span></h2>
+<a href="20251101_019.JPG" target="_blank"><img src="20251101_019.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">田んぼのお空に、お月様が浮かびました</span></h2>
+<a href="20251101_020.JPG" target="_blank"><img src="20251101_020.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_021.JPG" target="_blank"><img src="20251101_021.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">いつもの王立大学のプール、若者たちが練習中です</span></h2>
+<a href="20251101_022.JPG" target="_blank"><img src="20251101_022.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_023.JPG" target="_blank"><img src="20251101_023.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_024.JPG" target="_blank"><img src="20251101_024.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_025.JPG" target="_blank"><img src="20251101_025.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">大学出口、国道の向こうに夕陽が沈みました</span></h2>
+<a href="20251101_026.JPG" target="_blank"><img src="20251101_026.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">メーチャンの夕陽も綺麗です</span></h2>
+<a href="20251101_027.JPG" target="_blank"><img src="20251101_027.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_028.JPG" target="_blank"><img src="20251101_028.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_029.JPG" target="_blank"><img src="20251101_029.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_030.JPG" target="_blank"><img src="20251101_030.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">お月様も輝いています</span></h2>
+<a href="20251101_031.JPG" target="_blank"><img src="20251101_031.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_032.JPG" target="_blank"><img src="20251101_032.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_033.JPG" target="_blank"><img src="20251101_033.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_034.JPG" target="_blank"><img src="20251101_034.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">晴れ渡った夜空に星がたくさん</span></h2>
+<a href="20251101_035.JPG" target="_blank"><img src="20251101_035.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">31,Oct,2025 FORDのディーラーにお邪魔します</span></h2>
+<a href="20251101_036.JPG" target="_blank"><img src="20251101_036.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">整備場にはなぜかBENZ</span></h2>
+<a href="20251101_037.JPG" target="_blank"><img src="20251101_037.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">ロビーのモニターに流れる映像はお坊さん達のイベントのお経</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ir2j78yfeps?si=rLafQbwnuO4vTd1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<h2><span class="yellow">ロビーいただいたお菓子</span></h2>
+<a href="20251101_038.JPG" target="_blank"><img src="20251101_038.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">給茶機</span></h2>
+<a href="20251101_039.JPG" target="_blank"><img src="20251101_039.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">大抵のものが出せます</span></h2>
+<a href="20251101_040.JPG" target="_blank"><img src="20251101_040.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">チェンライの街のショッピングモール、シャコタンの青い車が爆音出して走り去りました</span></h2>
+<a href="20251101_041.JPG" target="_blank"><img src="20251101_041.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">スーパーの野菜バックに自撮りするおじさん</span></h2>
+<a href="20251101_042.JPG" target="_blank"><img src="20251101_042.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">お花売り場のお花が満開</span></h2>
+<a href="20251101_043.JPG" target="_blank"><img src="20251101_043.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_044.JPG" target="_blank"><img src="20251101_044.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">蔵さんのお着物に目が留まります</span></h2>
+<a href="20251101_045.JPG" target="_blank"><img src="20251101_045.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">ペットのイベントが開催中</span></h2>
+<a href="20251101_046.JPG" target="_blank"><img src="20251101_046.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_047.JPG" target="_blank"><img src="20251101_047.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">すぐ横では寄付を募るビラ</span></h2>
+<a href="20251101_048.JPG" target="_blank"><img src="20251101_048.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">小山羊がこちらを見つめます</span></h2>
+<a href="20251101_049.JPG" target="_blank"><img src="20251101_049.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">うさぎは疲れて丸くなりました</span></h2>
+<a href="20251101_050.JPG" target="_blank"><img src="20251101_050.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">猫の囲いで遊ぶ女の子</span></h2>
+<a href="20251101_051.JPG" target="_blank"><img src="20251101_051.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">ばらうりの金魚たち</span></h2>
+<a href="20251101_052.JPG" target="_blank"><img src="20251101_052.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_053.JPG" target="_blank"><img src="20251101_053.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">豚の子供は元気いっぱい</span></h2>
+<a href="20251101_054.JPG" target="_blank"><img src="20251101_054.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_055.JPG" target="_blank"><img src="20251101_055.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">猫の隣はおうむの小屋</span></h2>
+<a href="20251101_056.JPG" target="_blank"><img src="20251101_056.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">先ほどの女の子たち、おうむ小屋に移動</span></h2>
+<a href="20251101_057.JPG" target="_blank"><img src="20251101_057.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">金曜の午前中は、まだ混雑前</span></h2>
+<a href="20251101_058.JPG" target="_blank"><img src="20251101_058.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_059.JPG" target="_blank"><img src="20251101_059.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_060.JPG" target="_blank"><img src="20251101_060.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">囲いから首を出した子山羊</span></h2>
+<a href="20251101_061.JPG" target="_blank"><img src="20251101_061.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">寄付のお姉さんも、しっかり仕事してました</span></h2>
+<a href="20251101_062.JPG" target="_blank"><img src="20251101_062.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">置き物に見えた、生きた猛禽類</span></h2>
+<a href="20251101_063.JPG" target="_blank"><img src="20251101_063.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_064.JPG" target="_blank"><img src="20251101_064.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">100バーツで一緒に写真が撮れます</span></h2>
+<a href="20251101_065.JPG" target="_blank"><img src="20251101_065.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_066.JPG" target="_blank"><img src="20251101_066.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">ヘビを首に巻いてはしゃぐ女の子</span></h2>
+<a href="20251101_067.JPG" target="_blank"><img src="20251101_067.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_068.JPG" target="_blank"><img src="20251101_068.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">すぐ横の置き物コーナーでゾウさん撮影</span></h2>
+<a href="20251101_069.JPG" target="_blank"><img src="20251101_069.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_070.JPG" target="_blank"><img src="20251101_070.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_071.JPG" target="_blank"><img src="20251101_071.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_072.JPG" target="_blank"><img src="20251101_072.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">絵画コーナーも常設、作品が撮影できるのがタイのゆるいところ</span></h2>
+<a href="20251101_073.JPG" target="_blank"><img src="20251101_073.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_074.JPG" target="_blank"><img src="20251101_074.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_075.JPG" target="_blank"><img src="20251101_075.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_076.JPG" target="_blank"><img src="20251101_076.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_077.JPG" target="_blank"><img src="20251101_077.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">芸術領域にも仏教が浸透しています</span></h2>
+<a href="20251101_078.JPG" target="_blank"><img src="20251101_078.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_079.JPG" target="_blank"><img src="20251101_079.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_080.JPG" target="_blank"><img src="20251101_080.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">王様も定番</span></h2>
+<a href="20251101_081.JPG" target="_blank"><img src="20251101_081.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_082.JPG" target="_blank"><img src="20251101_082.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_083.JPG" target="_blank"><img src="20251101_083.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_084.JPG" target="_blank"><img src="20251101_084.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_085.JPG" target="_blank"><img src="20251101_085.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_086.JPG" target="_blank"><img src="20251101_086.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_087.JPG" target="_blank"><img src="20251101_087.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_088.JPG" target="_blank"><img src="20251101_088.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">若い僧侶が作品を観ていました</span></h2>
+<a href="20251101_089.JPG" target="_blank"><img src="20251101_089.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_090.JPG" target="_blank"><img src="20251101_090.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">イベント広場でお菓子を売る子供たち</span></h2>
+<a href="20251101_091.JPG" target="_blank"><img src="20251101_091.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">お昼のフードコートは満席状態</span></h2>
+<a href="20251101_092.JPG" target="_blank"><img src="20251101_092.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_093.JPG" target="_blank"><img src="20251101_093.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">フロアを上がってレストラン街に入ります</span></h2>
+<a href="20251101_094.JPG" target="_blank"><img src="20251101_094.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">せっかくなので記念撮影</span></h2>
+<a href="20251101_095.JPG" target="_blank"><img src="20251101_095.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">やよい軒のメニュー</span></h2>
+<a href="20251101_096.JPG" target="_blank"><img src="20251101_096.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">樹脂のコップには、目立つパーテーションライン</span></h2>
+<a href="20251101_097.JPG" target="_blank"><img src="20251101_097.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_098.JPG" target="_blank"><img src="20251101_098.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">天ぷらはカラッと上がってましたが、お蕎麦はしっとり〜</span></h2>
+<a href="20251101_099.JPG" target="_blank"><img src="20251101_099.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_100.JPG" target="_blank"><img src="20251101_100.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">デザートがついてました</span></h2>
+<a href="20251101_101.JPG" target="_blank"><img src="20251101_101.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">日本ブランドが進出中</span></h2>
+<a href="20251101_102.JPG" target="_blank"><img src="20251101_102.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">サンダルを新調</span></h2>
+<a href="20251101_103.JPG" target="_blank"><img src="20251101_103.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">チェンライのショッピングモール、バックの青空が綺麗でした</span></h2>
+<a href="20251101_104.JPG" target="_blank"><img src="20251101_104.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_105.JPG" target="_blank"><img src="20251101_105.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">街を貫く国道にかかる歩道橋にも仏教色が色濃く出てます</span></h2>
+<a href="20251101_106.JPG" target="_blank"><img src="20251101_106.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_107.JPG" target="_blank"><img src="20251101_107.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">国道沿いのお寺に聳え立つ仏像様</span></h2>
+<a href="20251101_108.JPG" target="_blank"><img src="20251101_108.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_109.JPG" target="_blank"><img src="20251101_109.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">この日も夕焼けが見事でした</span></h2>
+<a href="20251101_110.JPG" target="_blank"><img src="20251101_110.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_111.JPG" target="_blank"><img src="20251101_111.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">お空に浮かぶお月様も綺麗</span></h2>
+<a href="20251101_112.JPG" target="_blank"><img src="20251101_112.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_113.JPG" target="_blank"><img src="20251101_113.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">金曜日はメーチャンの街の市場、道路封鎖して大々的に開催されます</span></h2>
+<a href="20251101_114.JPG" target="_blank"><img src="20251101_114.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_115.JPG" target="_blank"><img src="20251101_115.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_116.JPG" target="_blank"><img src="20251101_116.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_117.JPG" target="_blank"><img src="20251101_117.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_118.JPG" target="_blank"><img src="20251101_118.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_119.JPG" target="_blank"><img src="20251101_119.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_120.JPG" target="_blank"><img src="20251101_120.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_121.JPG" target="_blank"><img src="20251101_121.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_122.JPG" target="_blank"><img src="20251101_122.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_123.JPG" target="_blank"><img src="20251101_123.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_124.JPG" target="_blank"><img src="20251101_124.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_125.JPG" target="_blank"><img src="20251101_125.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_126.JPG" target="_blank"><img src="20251101_126.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_127.JPG" target="_blank"><img src="20251101_127.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_128.JPG" target="_blank"><img src="20251101_128.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_129.JPG" target="_blank"><img src="20251101_129.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">これ撮ってたら、店員のお姉さんに声援いただきました</span></h2>
+<a href="20251101_130.JPG" target="_blank"><img src="20251101_130.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_131.JPG" target="_blank"><img src="20251101_131.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">野良犬がおこぼれ待ち</span></h2>
+<a href="20251101_132.JPG" target="_blank"><img src="20251101_132.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+<h2><span class="yellow">小学生の演奏隊に寄付をあげて、一枚パチリ！</span></h2>
+<a href="20251101_133.JPG" target="_blank"><img src="20251101_133.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251101_134.JPG" target="_blank"><img src="20251101_134.JPG" alt="サンプル画像" class="responsive-media"></a>
+    
+
+    
+<!--
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51tmW4PV-Xw?si=v7PtzTJ3WaY8o6uJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvsoLLa-XHQ?si=-zvqXbodBPV2nEFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+<h2><span class="yellow">Short movies</span></h2>
+https://youtube.com/shorts/773yijDWNEM?feature=share<br>
+https://youtube.com/shorts/fXWujjVeAQo?feature=share<br>
+https://youtube.com/shorts/43kwtgxybM8?feature=share<br>
+https://youtube.com/shorts/jKhX0RtXWAk?feature=share<br>
+https://youtube.com/shorts/Fqw8KGuUPtA?feature=share<br>
+https://youtube.com/shorts/ieJlzaTlpn0?feature=share<br>
+https://youtube.com/shorts/z8YXZQyPVMA?feature=share<br>
+https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
+-->
+
+<br><br><br><br><br><br><br><br><br>
+
+<br><br>
+<h2><span class="yellow">今日のBGMは Elton John, Lionel Richie, Phil Collins, Bee Gees, Lobo, Rod Stewart 📀 Soft Rock Ballads 70s 80s 90s</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8FIs1PadLyQ?si=Zeizsu8NP5iQlgBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    
+    
+    
+
+
+
+<br><br><br>
+<h2><span class="yellow">電波を出さないアマチュア無線から、メーチャンの金曜市場まででした<br>Thank you for reading this far.</span></h2>
+
+<br><br><br><br><br>
+<h2><span class="yellow">
+<a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
+</span></h2>
+
+    </div>
+<br><br><br>
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<p>you are <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />visitor<br>The numbers are cumulative for the Bangkok series websites launched since August 1st.</p></a>   
+
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+<br><br>
+
+<br><br><br><br><br><br>
+
+<!--本体はここまで-->
+
+
+<!--画面に空白地帯を作って、背景が見えるようにしています-->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<!-- フッタ -->
+<footer>
+<p>Copyright 2025/11/01 S,Hada @Mae Chan</p>
+</footer>
+
+<!--HPにさまざまなJavaScriptを呼び込むための書式-->
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script>
+    
+    </body>
+    
+</html>
